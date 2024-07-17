@@ -1,20 +1,17 @@
-Привет меня зовут Руслан ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
+==============================================================================================================================
 
-Пентестер/Инженер по кибербезопасности/Разработчик Python/Разработчик C++
--------------------------------------------------------------------------
+Pentester/Cybersecurity engineer/Python Developer/C++ Developer
+---------------------------------------------------------------
 
-Меня зовут Руслан, я страстный и преданный своему делу пентестер с большим опытом работы в области кибербезопасности. За последние несколько лет я отточил свои навыки в различных областях, включая системное администрирование, сетевую безопасность и этичный хакерский подход. Мой путь начался с прочной основы в области компьютерных наук и развивался благодаря постоянному обучению и практическому опыту как в образовательных, так и в профессиональных условиях. Я начал свою карьеру в качестве системного администратора и разработчика Python, где я развил глубокое понимание администрирования Linux и Windows и приобрел практический опыт работы с сетевыми протоколами и службами. Эта роль заложила основу для моего перехода в кибербезопасность, где я теперь сосредоточен на выявлении и устранении уязвимостей безопасности. Мое образование включает обучение в Межрегиональной академии управления персоналом и Высшей школе внутренней безопасности в Польше, где я специализировался на кибербезопасности.
+I'm Ruslan, a passionate and dedicated Penetration Tester with a strong background in cybersecurity. Over the past few years, I have honed my skills in various domains including system administration, network security, and ethical hacking. My journey began with a solid foundation in computer science and has evolved through continuous learning and hands-on experience in both educational and professional settings. I started my career as a System Administrator and Python Developer where I developed a deep understanding of Linux and Windows administration, and gained practical experience with network protocols and services. This role laid the groundwork for my transition into cybersecurity, where I now focus on identifying and mitigating security vulnerabilities. My education includes studies at the Interregional Academy of Personnel Management and the Higher School of Internal Security in Poland, where I specialized in Cybersecurity
 
-* 🌍 Я живу в Украине.
-* 🖥️ Посмотрите мое портфолио на [MyGit](http://github.com/WaiperOK)[](http://github.com/WaiperOK)
-* ✉️ Вы можете связаться со мной по адресу [https://www.linkedin.com/in/ruslan-t-05238721b/](mailto:https://www.linkedin.com/in/ruslan-t-05238721b/)[](mailto:https://www.linkedin.com/in/ruslan-t-05238721b/)
-* 🚀 В настоящее время я работаю над [Code Sentinel (анализ кода)](http://github.com/WaiperOK?tab=repositories)[](http://github.com/WaiperOK?tab=repositories)
-* 🧠 Я изучаю «Управление рисками безопасности» Эвана Уиллера. «Тестирование BCP и DRP: как эффективно проводить тестирование» Юджина Такера. «Соответствие GDPR и защита данных» Адама Грина.
-* 🤝 Я открыт для сотрудничества по Pentest Exploit
-
-<a href="https://www.github.com/waiper" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/waiper?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🌍  I'm based in Ukrain
+* 🖥️  See my portfolio at [MyGit](http://github.com/WaiperOK)
+* ✉️  You can contact me at [https://www.linkedin.com/in/ruslan-t-05238721b/](mailto:https://www.linkedin.com/in/ruslan-t-05238721b/)
+* 🚀  I'm currently working on [Code Sentinel (Code Analysis)](http://github.com/WaiperOK?tab=repositories)
+* 🧠  I'm learning "Security Risk Management" от Evan Wheeler. "BCP & DRP Testing: How to Conduct Testing Effectively" от Eugene Tucker. "GDPR Compliance and Data Protection" от Adam Green.
+* 🤝  I'm open to collaborating on Pentest Exploit
 
 ### Skills
 
@@ -30,12 +27,4 @@ src="https://img.shields.io/github/followers/waiper?logo=github&style=for-the-ba
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/waiper"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=waiper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/waiper" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiper&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
