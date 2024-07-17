@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
 ==============================================================================================================================
 
-Pentester/Cybersecurity engineer/Python Developer/C++ Developer
+Pentester/Cybersecurity engineer/Python Developer/C++ Developer with 5 years of experience
 ---------------------------------------------------------------
 
 I'm Ruslan, a passionate and dedicated Penetration Tester with a strong background in cybersecurity. Over the past few years, I have honed my skills in various domains including system administration, network security, and ethical hacking. My journey began with a solid foundation in computer science and has evolved through continuous learning and hands-on experience in both educational and professional settings. I started my career as a System Administrator and Python Developer where I developed a deep understanding of Linux and Windows administration, and gained practical experience with network protocols and services. This role laid the groundwork for my transition into cybersecurity, where I now focus on identifying and mitigating security vulnerabilities. My education includes studies at the Interregional Academy of Personnel Management and the Higher School of Internal Security in Poland, where I specialized in Cybersecurity
