@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Pentester | Cybersecurity Engineer | Python & C++ Developer | 5+ Years Experience
 ---------------------------------------------------------------
 
-I'm Ruslan, a passionate Penetration Tester and Cybersecurity Engineer with expertise in network security, ethical hacking, and exploit development. My journey started in system administration and Python development, giving me a strong foundation in Linux/Windows environments, network protocols, and security automation.
+Penetration Tester and Cybersecurity Engineer with expertise in network security, ethical hacking, and exploit development. My journey started in system administration and Python development, giving me a strong foundation in Linux/Windows environments, network protocols, and security automation.
 
 * ✉️  You can contact me at [https://www.linkedin.com/in/ruslan-t-05238721b/](mailto:https://www.linkedin.com/in/ruslan-t-05238721b/)
 * 🤝  I'm open to collaborating on Pentest Exploit
