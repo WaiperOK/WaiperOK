@@ -30,13 +30,11 @@
       height="195px" 
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiperOK&layout=compact&theme=dracula&hide_border=true&langs_count=8" 
-      alt="Top Languages"
-      height="195px" 
-    />
-  </a>
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiperOK&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=typescript,javascript,html,css,powershell" 
+  alt="Top Languages"
+  height="195px" 
+/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
