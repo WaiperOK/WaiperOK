@@ -18,6 +18,11 @@
   🤝 I'm open to collaborating on Pentest Exploit development and innovative cybersecurity projects.
 </p>
 
+<p align="center">
+  Dataset on ReadTeamLLM - https://huggingface.co/Waiper 
+</p>
+
+
 ---
 
 ### 📊 My GitHub Stats & Activity
