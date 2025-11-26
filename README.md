@@ -22,37 +22,6 @@
   Dataset on ReadTeamLLM - https://huggingface.co/Waiper 
 </p>
 
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=WaiperOK&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" 
-      alt="WaiperOK's GitHub stats"
-      height="195px" 
-    />
-  </a>
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaiperOK&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=typescript,javascript,html,css,powershell" 
-  alt="Top Languages"
-  height="195px" 
-/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=WaiperOK&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" 
-      alt="WaiperOK's Activity Graph"
-      width="600px" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Languages, Tools & Technologies
 
 #### 💻 Programming Languages
